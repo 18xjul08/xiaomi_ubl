@@ -1,4 +1,3 @@
-# xiaomi_ubl
 Bootloader unlock solution for Xiaomi devices running Snapdragon
 
 
@@ -9,6 +8,21 @@ List of supported devices :
   - Xiaomi 17 Pro (pandora)
   - Xiaomi 17 Pro Max (popsicle)
   - Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (nezha)
+  - REDMI K90 Pro Max (myron)
  * Snapdragon 8 Elite :
+  - Xiaomi 15 (dada)
+  - Xiaomi 15 Pro (haotian)
+  - Xiaomi 15 Ultra (xuanyuan)
+  - Xiaomi MIX Flip 2 (bixi)
+  - REDMI K90 (annibale)
+  - REDMI K80 Pro (miro)
+  - Xiaomi Pad 8 Pro (piano)
  * Snapdragon 8 Gen 3 :
+  - Xiaomi 14 (houji)
+  - Xiaomi 14 Pro (shennong)
+  - Xiaomi 14 Ultra (aurora)
+  - Xiaomi Mix Flip (ruyi)
+  - Xiaomi Mix Fold 4 (goku)
+  - REDMI K80 (zorn)
+  - Redmi K70 Pro (manet)
  * Snapdragon 8 Gen 2 :
