@@ -1,0 +1,7 @@
+Firehose for downgrade ABL in EDL (9008) mode
+Guide : Using QFIL or others tool for boot your device with firehose to downgrade abl
+---------------------------------------------------------------------------------------
+Snapdragon 8 Elite : 8750.melf
+Snapdragon 8 Gen 2 : 8550.melf
+-------------------------------------------------------------------------------------------
+After boot done , flash abl in downgrade package / ENG ROM into abl_a and abl_b and reboot to bootloader
