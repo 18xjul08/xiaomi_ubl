@@ -1,0 +1,13 @@
+adb reboot bootloader
+
+fastboot oem set-gpu-preemption-value 0 androidboot.selinux=permissive
+
+fastboot continue
+
+adb push unlock\gbl_efi_unlock.efi /data/local/tmp/gbl_efi_unlock.efi
+
+adb shell service call miui.mqsas.IMQSNative 21 i32 1 s16 "dd" i32 1 s16 'if=/data/local/tmp/gbl_efi_unlock.efi of=/dev/block/by-name/efisp' s16 '/data/mqsas/log.txt' i32 60
+
+adb reboot bootloader
+
+fastboot getvar unlocked
