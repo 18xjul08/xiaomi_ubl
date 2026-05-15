@@ -1,4 +1,4 @@
-Bootloader unlock solution for Xiaomi devices running Snapdragon
+Bootloader unlock solution for Xiaomi devices running Snapdragon chipset
 
 
 -----------------------------------------------------------------------
