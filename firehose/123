@@ -6,4 +6,5 @@ Snapdragon 8 Gen 2 : 8550.melf
 -------------------------------------------------------------------------------------------
 After boot done , flash abl in downgrade package / ENG ROM into abl_a and abl_b and reboot to bootloader
 If your device show "Your system has been deystroy Hold Vol Down + power to force reboot fastboot 
+After reboot to fastboot, continue flash ENG ROM and boot unlock image
 -------------------------------------------------------------------------------------------
