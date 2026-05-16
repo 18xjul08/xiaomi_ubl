@@ -40,7 +40,7 @@ List of supported devices :
 ----------------------------------------------------------------------------------------------
 
 * Notes :
- -For lower-level ABL devices via Fastboot and ADB, the device must be running a security patched version lower than 01-02-2026.
- -For devices using the EDL method (downgrading ABL with 9008), it will cause devices using Kioxia-Toshiba hard drives to brick. 
+   -For lower-level ABL devices via Fastboot and ADB, the device must be running a security patched version lower than 01-02-2026.
+   -For devices using the EDL method (downgrading ABL with 9008), it will cause devices using Kioxia-Toshiba hard drives to brick. 
 
 Download ENG ROM : https://github.com/18xjul08/xiaomi_eng_rom
