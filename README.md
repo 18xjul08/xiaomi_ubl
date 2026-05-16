@@ -44,3 +44,6 @@ List of supported devices :
    - For devices using the EDL method (downgrading ABL with 9008), it will cause devices using Kioxia-Toshiba hard drives to brick. 
 
 Download ENG ROM : https://github.com/18xjul08/xiaomi_eng_rom
+
+----------------------------------------------------------------------------------------------
+
