@@ -27,7 +27,7 @@ List of supported devices :
   	- Redmi K70 Pro (manet)
  * Snapdragon 8 Gen 2 :
    	- Xiaomi 13 (fuxi)
-   	- Xiamoi 13 Pro (nuwa)
+   	- Xiaomi 13 Pro (nuwa)
    	- Xiaomi 13 Ultra (ishtar)
    	- Xiaomi Mix Fold 3 (babylon)
    	- Redmi K70 (vermeer)
