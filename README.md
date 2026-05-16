@@ -32,3 +32,10 @@ List of supported devices :
    	- Xiaomi Mix Fold 3 (babylon)
    	- Redmi K70 (vermeer)
    	- Redmi K60 Pro (socrates)
+
+----------------------------------------------------------------------------------------------
+
+* Notes :
+ -For lower-level ABL devices via Fastboot and ADB, the device must be running a security patched version lower than 01-02-2026.
+ -For devices using the EDL method (downgrading ABL with 9008), it will cause devices using Kioxia-Toshiba hard drives to brick. 
+
