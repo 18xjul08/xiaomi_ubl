@@ -33,7 +33,7 @@ List of supported devices :
    	- Redmi K70 (vermeer)
    	- Redmi K60 Pro (socrates)
   * Snpadragon 8s Gen 3 :
-    - Xiaomi Civi 4 (chengfeng)
+    - Xiaomi Civi 4 Pro (chengfeng)
     - Xiaomi Pad 7 Pro (muyu)
     - Redmi Turbo 3 (peridot)
 
